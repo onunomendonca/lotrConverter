@@ -1,4 +1,4 @@
-# LOTR Converter (SwiftUI Introduction Project)
+# LOTR Converter (SwiftUI Introductory Project)
 
 This project is merely a personal introduction on SWIFT UI based on the [IOS 15 App Development with SwiftUI 3 and Swift 5 Udemy Course](https://farfetch.udemy.com/course/ios-15-app-development-with-swiftui-3-and-swift-5/). 
 
